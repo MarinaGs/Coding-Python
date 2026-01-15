@@ -1,16 +1,15 @@
-# Nombre de tu Proyecto
+# Coding-Python
 
 Una descripción corta y directa (1 o 2 frases) de qué hace este proyecto y qué problema resuelve.
 
 ## 🚀 Características
-* Característica principal 1.
-* Característica principal 2.
-* Interfaz intuitiva / Optimización / etc.
+* Ejercicios de Python y Pandas.
+* Ejercicios de SQL.
 
 ## 🛠️ Tecnologías utilizadas
-* **Lenguaje:** (Ej: Python, JavaScript, HTML/CSS)
-* **Frameworks/Librerías:** (Ej: React, Flask, Pandas)
-* **Herramientas:** (Ej: Git, Docker)
+* **Lenguaje:** Python
+* **Frameworks/Librerías:** Pandas
+* * **Herramientas:** 
 
 ## 📦 Instalación
 
@@ -18,4 +17,4 @@ Para ejecutar este proyecto en tu computadora local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-proyecto.git](https://github.com/tu-usuario/nombre-del-proyecto.git)
+   git clone [https://github.com/MarinaGs/Coding-Python.git](https://github.com/tu-usuario/nombre-del-proyecto.git)
